@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@gmail.com",
+      "age": 32
+    },
+    {
+      "id": 2,
+      "name": "Steve Smith",
+      "email": "stevesmith@gmail.com",
+      "age": 20
+    },
+    {
+      "id": 3,
+      "name": "Sara Lopes",
+      "email": "saralopes@gmail.com",
+      "age": 18
+    },
+    {
+      "id": 4,
+      "name": "William Defoe",
+      "email": "williamdefoe@gmail.com",
+      "age": 59
+    },
+    {
+      "id": 5,
+      "name": "John Willis",
+      "email": "johnwillis@gmail.com",
+      "age": 32
+    },
+    {
+      "name": "Harry Potter",
+      "email": "harrypotter@gmail.com",
+      "age": 12,
+      "id": 6
+    }
+  ]
+}
